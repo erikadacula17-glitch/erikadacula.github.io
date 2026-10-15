@@ -1,0 +1,37 @@
+{
+  "name": "Erika Dacula",
+  "tagline": "Aspiring IT Professional & Creative Developer",
+  "introduction": "I'm passionate about technology, design, and turning ideas into functional digital experiences. Always eager to learn and grow!",
+  "profileImage": "images/profile.jpg",
+  "about": {
+    "biography": "Hello! I'm Erika — an enthusiastic IT student who loves exploring the world of technology. I believe that with curiosity and dedication, we can build amazing things.",
+    "program": "Bachelor of Science in Information Technology",
+    "school": "Nueva Vizcaya State University",
+    "graduation": "Expected Graduation: 2027",
+    "careerGoal": "To become a skilled IT professional who combines technical expertise with creative problem-solving.",
+    "interests": "Web Design • Graphic Design • Networking • Learning New Technologies"
+  },
+  "skills": [
+    "HTML & CSS",
+    "JavaScript",
+    "Graphic Design",
+    "Computer Networks",
+    "Office Tools",
+    "Teamwork"
+  ],
+  "projects": [
+    {
+      "title": "Personal Portfolio",
+      "description": "This website! Built to showcase my skills, projects, and journey as an IT student.",
+      "technologies": "HTML • CSS • JavaScript",
+      "link": "#"
+    },
+    
+  ],
+  "githubUsername": "erikadacula17-glitch",
+  "contact": {
+    "email": "erikadacula17@gmail.com",
+    "location": "Nueva Vizcaya, Philippines",
+    "linkedin": "https://www.linkedin.com/"
+  }
+}
